@@ -1,0 +1,5 @@
+body {
+    background-image: url('путь_к_вашей_картинке.jpg');
+    background-size: cover; /* Растягивает изображение на весь экран */
+    background-repeat: no-repeat; /* Запрет повторения изображения */
+}
